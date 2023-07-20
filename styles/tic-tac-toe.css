@@ -16,7 +16,7 @@ a {
 body {
     background-color: rgb(135, 182, 167);
     color: rgb(91, 89, 65);
-    font-family: sans-serif;
+    font-family: 'Arial', sans-serif;
 }
 
 .board {
